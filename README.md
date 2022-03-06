@@ -7,4 +7,4 @@ A Basic DiscordRPC with Buttons.
 3. Run ``start.bat``.
 
 # Screenshot
-<a href="#"><img width="100%" height="auto" src="https://cloud.ncks.eu/index.php/s/gc99QrntzrQZXeF/preview" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.ncks.eu/nick/zcvle.png" height="175px"/></a>
